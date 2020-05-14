@@ -25,4 +25,9 @@ EtherScan
 
 ![image](https://user-images.githubusercontent.com/54212786/81950646-d4699d80-9621-11ea-915e-eb60dcf76248.png)
 
+On reloading
+
+![image](https://user-images.githubusercontent.com/54212786/81950763-024ee200-9622-11ea-941c-f317a2109edc.png)
+
+
 
