@@ -16,3 +16,7 @@ Etherscan
 On reloading
 
 ![image](https://user-images.githubusercontent.com/54212786/81949997-10503300-9621-11ea-9b9d-888a6b9bd841.png)
+
+On clicking withdraw button
+
+![image](https://user-images.githubusercontent.com/54212786/81950279-5dcca000-9621-11ea-8061-883c4ad4a884.png)
